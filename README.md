@@ -2,6 +2,8 @@
 
 This project provides a web interface to design 3D print models using Vue.js.
 
+Github Pages: https://kai-gski.github.io/index.html 
+
 ## Prerequisites
 
 - Before starting, ensure you have [Node.js](https://nodejs.org/) and `npm` (node package manager) installed on your system. You can verify the installation by running:
