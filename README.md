@@ -56,7 +56,7 @@ $ cd team09
 $ npm run serve
 ```
 
-- Visit [http://localhost:8081/] in your browser to view the app.
+- Visit [http://localhost:8080/] in your browser to view the app.
 
 
 ## Contributing
